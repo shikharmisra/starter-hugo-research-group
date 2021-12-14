@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shikhar Misra
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Materials Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: IIT Kanpur
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is in Ceramic Nanocomposite Designs, Processing and Characterizations for Microelectronics, Optics, and Energy applications, Machine learning for Materials Database Mining and Structural Refining
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Functional thin films ceramic nanocomposites
+- Epitaxy
+- Optical metamaterials
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Materials Engineering
+    institution: Purdue University
+    year: 2020
+  - course: B.Tech-M.Tech Dual Degree in Materials Science and Engineering
+    institution: IIT Kanpur
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:shikharm@iitk.ac.in'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Ozshikharpooner
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.co.in/citations?user=vfrXn3cAAAAJ&hl=en
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/shikhar-misra-ph-d-a69aa640/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +65,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shikhar Misra is an Assistant Professor in Materials Science and Engineering at IIT Kanpur. His research interests include in Ceramic Nanocomposite Designs, Processing and Characterizations for Microelectronics, Optics, and Energy applications, Machine learning for Materials Database Mining and Structural Refining.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Feel free to contact me regarding anything that interests you on this site.
