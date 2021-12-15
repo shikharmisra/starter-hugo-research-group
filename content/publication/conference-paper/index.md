@@ -1,6 +1,5 @@
 ---
 title: "An example conference paper"
-title: "An example conference paper2"
 authors:
 - admin
 - Robert Ford
