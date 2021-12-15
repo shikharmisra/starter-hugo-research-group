@@ -19,3 +19,8 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Research
+    url: Research
+    weight: 70
+    
+    
