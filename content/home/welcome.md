@@ -3,7 +3,7 @@ widget: hero
 widget_id: "1"
 headless: true
 weight: 10
-title: Misra Thin Film Group
+title: Dr. Shikhar Misra
 hero_media: welcome.jpg
 design:
   columns: "1"
