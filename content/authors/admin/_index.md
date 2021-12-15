@@ -1,7 +1,7 @@
 ---
 title: Shikhar Misra
 role: Assistant Professor, Materials Science and Engineering
-avatar_filename: Shikhar.jpg
+avatar_filename: avatar.jpg
 bio: My research interest is in Ceramic Nanocomposite Designs, Processing and
   Characterizations for Microelectronics, Optics, and Energy applications,
   Machine learning for Materials Database Mining and Structural Refining
