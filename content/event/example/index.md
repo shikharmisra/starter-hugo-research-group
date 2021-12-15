@@ -13,7 +13,7 @@ location: MSE, IIT Kanpur
 date: 2021-12-15T09:36:23.019Z
 date_end: 2021-12-15T09:36:23.663Z
 all_day: false
-event: Wowchemy Conference
+event: Talks at MSE, IITK
 event_url: https://www.iitk.ac.in/mse/conference-seminar.php
 featured: false
 authors: []
