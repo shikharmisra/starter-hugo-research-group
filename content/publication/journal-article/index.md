@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 title: "Ferroelectric/multiferroic self-assembled vertically aligned
   nanocomposites: Current and future status"
-doi: ""
+doi: 10.1063/5.0035366
 featured: false
 tags: []
 projects: []
