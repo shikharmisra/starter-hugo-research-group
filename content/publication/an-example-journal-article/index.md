@@ -8,7 +8,7 @@ authors:
   - admin
   - H. Wang
 author_notes: []
-publication: Materials Horizon, 8, 869-884
+publication: "*Materials Horizon*, 8, 869-884"
 summary: ""
 url_dataset: ""
 url_project: ""
