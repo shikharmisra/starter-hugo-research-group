@@ -20,7 +20,7 @@ main:
     url: contact
     weight: 60
   - name: Research
-    url: Research
+    url: landing
     weight: 70
     
     
