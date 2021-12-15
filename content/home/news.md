@@ -20,5 +20,6 @@ design:
   view: 3
   columns: "2"
   background:
-    text_color_light: true
+    text_color_light: false
+    image_darken: 0.5
 ---
